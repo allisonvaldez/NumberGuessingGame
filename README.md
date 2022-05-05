@@ -7,26 +7,8 @@ feedback (whether the guess was too high or too low), and provide how many
 attempts the user took.
 
 ## Installation
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+Please download the code from Github and execute the python guessinggame.py 
+file. There is no further installation needed.
 
 ## Contributing
 Pull requests are welcome--but highly unlikely. For major changes, please 
